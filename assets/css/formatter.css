@@ -75,6 +75,10 @@ ul {
     height: 30px;
 }
 
+.text_Dnone {
+    text-decoration: none;
+}
+
 @media (max-width: 576px) {
     .font_16 {
         font-size: 16px;
